@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/res/merged/debug/raw/tuner.zip",
+        "source": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/src/main/res/raw/tuner.zip"
+    },
+    {
+        "merged": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/res/merged/debug/raw/silence.wav",
+        "source": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/raw/silence.wav"
+    },
+    {
+        "merged": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/res/merged/debug/raw/extra_abs.zip",
+        "source": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/raw/extra_abs.zip"
+    }
+]

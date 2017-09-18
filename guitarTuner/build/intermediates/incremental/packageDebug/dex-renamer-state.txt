@@ -1,0 +1,7 @@
+#Mon Sep 18 13:38:50 CEST 2017
+base.0=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95701eb8bec0f3524c8b0a1739591058067f6f2f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5514789eadb587fdb210ef77b88e32adc99b6e1/classes.dex
+base.1=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5514789eadb587fdb210ef77b88e32adc99b6e1
+file.0=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95701eb8bec0f3524c8b0a1739591058067f6f2f/classes.dex

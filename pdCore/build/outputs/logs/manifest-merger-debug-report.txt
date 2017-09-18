@@ -1,0 +1,9 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jmsol/dev/personal/PurePhoneGuitarTuner/pdCore/src/main/AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from /Users/jmsol/dev/personal/PurePhoneGuitarTuner/pdCore/src/main/AndroidManifest.xml:3:7-45
+		INJECTED from /Users/jmsol/dev/personal/PurePhoneGuitarTuner/pdCore/src/main/AndroidManifest.xml
+		INJECTED from /Users/jmsol/dev/personal/PurePhoneGuitarTuner/pdCore/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jmsol/dev/personal/PurePhoneGuitarTuner/pdCore/src/main/AndroidManifest.xml:2:11-69

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PurePhoneGuitarTuner.iml" filepath="$PROJECT_DIR$/PurePhoneGuitarTuner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guitarTuner/guitarTuner.iml" filepath="$PROJECT_DIR$/guitarTuner/guitarTuner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdCore/pdCore.iml" filepath="$PROJECT_DIR$/pdCore/pdCore.iml" />
+    </modules>
+  </component>
+</project>

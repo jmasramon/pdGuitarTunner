@@ -1,0 +1,610 @@
+[
+    {
+        "outputFile": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 16,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 16,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endLine": 11,
+                    "endColumn": 16,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 11,
+                        "endColumn": 16,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endLine": 19,
+                        "endColumn": 16,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endLine": 27,
+                    "endColumn": 16,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endLine": 45,
+                    "endColumn": 16,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 45,
+                        "endColumn": 16,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 48,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 48,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 67,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 67,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endColumn": 57,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endColumn": 62,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 62,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 64,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 64,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 54,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 54,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 58,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 58,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 72,
+                    "endOffset": 1565
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1322,
+                        "endColumn": 72,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1570,
+                    "endColumn": 74,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 74,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 68,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1470,
+                        "endColumn": 68,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 60,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 60,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 64,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 64,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1840,
+                    "endColumn": 66,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 66,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 56,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 56,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 71,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 71,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endColumn": 89,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 89,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endColumn": 83,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 83,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 89,
+                    "endOffset": 2295
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 89,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2300,
+                    "endColumn": 91,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 91,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endColumn": 73,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 73,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endColumn": 81,
+                    "endOffset": 2543
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 81,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2548,
+                    "endColumn": 79,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 79,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endColumn": 77,
+                    "endOffset": 2701
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 77,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2706,
+                    "endColumn": 79,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 79,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 2895
+                },
+                "from": {
+                    "file": "/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 1898
+                    }
+                }
+            }
+        ]
+    }
+]

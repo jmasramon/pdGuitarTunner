@@ -1,0 +1,16 @@
+#Mon Sep 18 13:38:49 CEST 2017
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+base.4=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9408adcb86cf3430cb364ce25a8a73cc16aff448
+renamed.0=classes4.dex
+base.3=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3e6e9400f24f491f5aaa052aadcf6f9d2f77acc
+base.2=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e74300dd66d7dcde9d9bd72190c15a17d46224aa
+base.1=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_4a0ad55a252c150b95f15be3306c9b98cdbf8b7c
+base.0=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_92b04a79a63afa9b128b1e3e0a0c0bbf41286c15
+file.4=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9408adcb86cf3430cb364ce25a8a73cc16aff448/classes.dex
+file.3=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3e6e9400f24f491f5aaa052aadcf6f9d2f77acc/classes.dex
+file.2=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e74300dd66d7dcde9d9bd72190c15a17d46224aa/classes.dex
+file.1=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_4a0ad55a252c150b95f15be3306c9b98cdbf8b7c/classes.dex
+file.0=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_92b04a79a63afa9b128b1e3e0a0c0bbf41286c15/classes.dex

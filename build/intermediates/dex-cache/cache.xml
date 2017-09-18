@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/.android/build-cache/8c174f6eab4e1016aeab3e772f8491803790f3bd/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_92b04a79a63afa9b128b1e3e0a0c0bbf41286c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_4a0ad55a252c150b95f15be3306c9b98cdbf8b7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95701eb8bec0f3524c8b0a1739591058067f6f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85a52c9d95b7fe43a523621ff8dcbafd8d16ca06">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5514789eadb587fdb210ef77b88e32adc99b6e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9408adcb86cf3430cb364ce25a8a73cc16aff448/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/.android/build-cache/8c174f6eab4e1016aeab3e772f8491803790f3bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e74300dd66d7dcde9d9bd72190c15a17d46224aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jmsol/.android/build-cache/31f9acfc0affb8161d639dce757222dfed49dbb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4548682baf5832064d7ba9c90356ccbfe1640cc9">
+        <dex dex="/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3e6e9400f24f491f5aaa052aadcf6f9d2f77acc/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Mon Sep 18 13:38:49 CEST 2017
+base.0=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

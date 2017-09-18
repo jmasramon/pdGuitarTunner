@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/jmsol/dev/personal/PurePhoneGuitarTuner/guitarTuner/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/jmsol/.android/build-cache/5e71d3b72a7749306c266b4295e52d600c7d2314/output/res/layout/device_list.xml"
+    }
+]
